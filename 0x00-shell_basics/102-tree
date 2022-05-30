@@ -1,0 +1,5 @@
+#!/bin/bash
+mkdir{welcome/, welcome/to/,welcome/to/school} >> 102-tree
+chmod u+x 102-tree
+git add .
+echo mkdir{welcome/, welcome/to/,welcome/to/school}
