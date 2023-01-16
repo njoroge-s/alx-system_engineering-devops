@@ -1,7 +1,7 @@
 ### 0x15. API
 
 #### description of the files
-~ 0-gather_data_from_an_API.py
+~0-gather_data_from_an_API.py
 Python script that uses the JSON returned from the "Fake Data For API's" link above to return information about a todo list.
 ~ 1-export_to_CSV.py
 Exports the data returned from ``0-gather_data_from_an_API.py`` into CSV
